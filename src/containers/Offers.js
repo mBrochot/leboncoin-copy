@@ -29,7 +29,6 @@ const Offers = () => {
   const paginate = (pageNumber) => setCurrentPage(pageNumber);
 
   return isLoading ? (
-    // <span>En cours de chargement... </span>
     <div className="loading">
       <img src={loading} alt="loading" />
     </div>

@@ -24,7 +24,8 @@ const Offer = ({ hide, setHide, user, setUser }) => {
       setIsLoading(false);
     };
     fetchData();
-  }, [setData]);
+  });
+
   return isLoading ? (
     <div className="loading">
       <img src={loading} alt="" loader />
