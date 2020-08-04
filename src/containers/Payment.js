@@ -68,7 +68,7 @@ const Payment = () => {
       ) : (
         <div className="payBox">
           <div className="purchased-object">
-            <img src={offer.picture.url} alt="picture" />
+            <img src={offer.picture.url} alt="offer" />
             <div>{offer.title}</div>
             <div className="payBox-price">{offer.price + " €"}</div>
           </div>

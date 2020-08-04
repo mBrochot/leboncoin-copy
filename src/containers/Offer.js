@@ -14,17 +14,15 @@ const Offer = ({ hide, setHide, user, setUser }) => {
   const [data, setData] = useState({});
   const [isLoading, setIsLoading] = useState(true);
 
-  const fetchData = async () => {
-    const response = await axios.get(
-      `https://le-bon-coin-api.herokuapp.com/offer/${id}`
-    );
-
-    Cookies.set("offer", response.data, { expires: 1 });
-    setData(response.data);
-    setIsLoading(false);
-  };
-
   useEffect(() => {
+    const fetchData = async () => {
+      const response = await axios.get(
+        `https://le-bon-coin-api.herokuapp.com/offer/${id}`
+      );
+      Cookies.set("offer", response.data, { expires: 1 });
+      setData(response.data);
+      setIsLoading(false);
+    };
     fetchData();
   }, []);
   return isLoading ? (
