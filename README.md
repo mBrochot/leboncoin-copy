@@ -1,6 +1,9 @@
-<h2 align="center">
-	💶 leboncoin 🛒
-</h2>
+<h1 align="center">
+	<img
+		width="350"
+		alt="leboncoin"
+		src="https://github.com/mBrochot/leboncoin-copy/blob/master/src/images/leboncoin-logo.png">
+</h1>
 
 See demo: https://leboncoin-copy.netlify.app/
 
