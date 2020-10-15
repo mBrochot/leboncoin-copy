@@ -18,7 +18,6 @@ const Header = ({ hide, setHide, user, setUser }) => {
               <img
                 className="leboincoinLogo"
                 src={logo}
-                ty
                 alt="logo-leboncoin"
               />
             </Link>

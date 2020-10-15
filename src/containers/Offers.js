@@ -69,7 +69,7 @@ const Offers = () => {
       </div>
       <section className="offers-list">
         {currentPosts.map((item, index) => {
-          return <Item item={item} />;
+          return <Item item={item} key={index}/>;
         })}
       </section>
       <Pagination

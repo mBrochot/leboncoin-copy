@@ -24,7 +24,7 @@ const CARD_ELEMENT_OPTIONS = {
 
 const Payment = () => {
   const offer = Cookies.getJSON("offer");
-  console.log(offer);
+
   const [error, setError] = useState(null);
   const stripe = useStripe();
   const elements = useElements();
