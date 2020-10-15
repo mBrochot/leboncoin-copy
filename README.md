@@ -5,6 +5,22 @@
 		src="https://github.com/mBrochot/leboncoin-copy/blob/master/src/images/leboncoin-logo.png">
 </h1>
 
+## REACT Project
+
+<br/>
+
+Replica of the **leboncoin** site, the back is hosted on **heroku** and the front on **Netlify**. Online payment is made with **Stripe**.
+
+If you want to test the demo payment method, you just have to fill in each field with a sequence of 42.
+
+```
+Card Number : 4242424242424242
+Date : 04/24
+Security Code : 242
+Postcode : 42424
+```
+<br/>
+
 See demo: https://leboncoin-copy.netlify.app/
 
 <p align="center">
