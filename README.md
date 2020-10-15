@@ -8,25 +8,25 @@ See demo: https://leboncoin-copy.netlify.app/
    <img
 		width="600"
 		alt="capture"
-		src="https://raw.githubusercontent.com/mBrochot/leboncoin-copy/master/preview/capture-leboncoin-1.png">
+		src="https://raw.githubusercontent.com/mBrochot/leboncoin-copy/blob/master/preview/capture-leboncoin-1.png">
 </p>
 <p align="center">
    <img
 		width="600"
 		alt="capture"
-		src="https://raw.githubusercontent.com/mBrochot/leboncoin-copy/master/preview/capture-leboncoin-2.png">
+		src="https://raw.githubusercontent.com/mBrochot/leboncoin-copy/blob/master/preview/capture-leboncoin-2.png">
 </p>
 <p align="center">
    <img
 		width="600"
 		alt="capture"
-		src="https://raw.githubusercontent.com/mBrochot/leboncoin-copy/master/preview/capture-leboncoin-3.png">
+		src="https://raw.githubusercontent.com/mBrochot/leboncoin-copy/blob/master/preview/capture-leboncoin-3.png">
 </p>
 <p align="center">
    <img
 		width="600"
 		alt="capture"
-		src="https://raw.githubusercontent.com/mBrochot/leboncoin-copy/master/preview/capture-leboncoin.gif">
+		src="https://raw.githubusercontent.com/mBrochot/leboncoin-copy/blob/master/preview/capture-leboncoin.gif">
 </p>
 
 ## Installation and usage
