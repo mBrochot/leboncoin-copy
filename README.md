@@ -70,3 +70,10 @@ When installation is complete :
 ```bash
 yarn start
 ```
+<br/>
+
+### Contact
+
+find me on my <br/>
+<a href="https://www.linkedin.com/in/mathieu-brochot/"><img img width="100"
+  src="https://github.com/mBrochot/airbnb-replique/blob/master/preview/linkedIn.png"></a>
